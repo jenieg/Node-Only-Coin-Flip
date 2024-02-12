@@ -1,6 +1,6 @@
 # Node Only Coin Flip
 
-## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5) ![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3) ![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript) ![NODE BADGE](https://img.shields.io/static/v1?label=|&message=NODE.JS&color=3c7f5d&style=plastic&logo=node.js)
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=flat&logo=html5) ![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=flat&logo=css3) ![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=flat&logo=javascript) ![NODE BADGE](https://img.shields.io/static/v1?label=|&message=NODE.JS&color=3c7f5d&style=flat&logo=node.js)
 
 In this project I made a coin-flip game using JavaScript and Node only. 
 
